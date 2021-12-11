@@ -3,7 +3,7 @@ package mimeheader_test
 import (
 	"testing"
 
-	"github.com/aohorodnyk/mimeheader"
+	"github.com/Jake-Convictional/mimeheader"
 )
 
 func TestMimeType_MimeTypeWithParams(t *testing.T) {

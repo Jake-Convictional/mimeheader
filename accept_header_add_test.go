@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/aohorodnyk/mimeheader"
+	"github.com/Jake-Convictional/mimeheader"
 )
 
 func ExampleAcceptHeader_Add() {
